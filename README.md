@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Aquino</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning **React, .Net**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **JavierAquinoV1@gmail.com**
 
